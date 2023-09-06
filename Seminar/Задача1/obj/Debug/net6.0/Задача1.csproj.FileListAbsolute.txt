@@ -1,0 +1,15 @@
+D:\GB\Seminar\Seminar2\Seminar\Задача1\obj\Debug\net6.0\Задача1.csproj.AssemblyReference.cache
+D:\GB\Seminar\Seminar2\Seminar\Задача1\obj\Debug\net6.0\Задача1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Seminar\Seminar2\Seminar\Задача1\obj\Debug\net6.0\Задача1.AssemblyInfoInputs.cache
+D:\GB\Seminar\Seminar2\Seminar\Задача1\obj\Debug\net6.0\Задача1.AssemblyInfo.cs
+D:\GB\Seminar\Seminar2\Seminar\Задача1\obj\Debug\net6.0\Задача1.csproj.CoreCompileInputs.cache
+D:\GB\Seminar\Seminar2\Seminar\Задача1\bin\Debug\net6.0\Задача1.exe
+D:\GB\Seminar\Seminar2\Seminar\Задача1\bin\Debug\net6.0\Задача1.deps.json
+D:\GB\Seminar\Seminar2\Seminar\Задача1\bin\Debug\net6.0\Задача1.runtimeconfig.json
+D:\GB\Seminar\Seminar2\Seminar\Задача1\bin\Debug\net6.0\Задача1.dll
+D:\GB\Seminar\Seminar2\Seminar\Задача1\bin\Debug\net6.0\Задача1.pdb
+D:\GB\Seminar\Seminar2\Seminar\Задача1\obj\Debug\net6.0\Задача1.dll
+D:\GB\Seminar\Seminar2\Seminar\Задача1\obj\Debug\net6.0\refint\Задача1.dll
+D:\GB\Seminar\Seminar2\Seminar\Задача1\obj\Debug\net6.0\Задача1.pdb
+D:\GB\Seminar\Seminar2\Seminar\Задача1\obj\Debug\net6.0\Задача1.genruntimeconfig.cache
+D:\GB\Seminar\Seminar2\Seminar\Задача1\obj\Debug\net6.0\ref\Задача1.dll
